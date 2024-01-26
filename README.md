@@ -8,6 +8,8 @@ Search for the draw.io extension and click Install on the unofficial extension d
 
 The diagramming extension will be enabled globally, and will persist until you clear your browser’s cache.
 
+Navigate to a diagram file in the repository that you have open in the left panel. When you click on the file, the diagram editor will open in the right pane.
+
 
 https://www.drawio.com/blog/edit-diagrams-with-github-dev
 
